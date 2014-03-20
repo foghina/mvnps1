@@ -1,6 +1,6 @@
 This is a small script that you can use to display [Maven] project information in your terminal prompt:
 
-![Screenshot](//i.imgur.com/ON7CQPv.png)
+![Screenshot](https://i.imgur.com/ON7CQPv.png)
 
 Usage
 =====
